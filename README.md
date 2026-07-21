@@ -16,6 +16,8 @@ Matplotlib
 Seaborn
 SciPy
 Git & GitHub
+
+
 📁 Project Structure
 Task-4/
 │
@@ -31,6 +33,8 @@ Task-4/
 ├── screenshots/
 │
 └── README.md
+
+
 📈 Key Insights
 Technology category generated the highest sales revenue.
 Profitability varied across different regions.
